@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="selenium_webautomation_Learn.ORM_Testing.ORMAPP_Testing">
+      <class name="selenium_webautomation_Learn.ORM_Testing.AssertonDemo">
         <methods>
-          <include name="loginApp"/>
+          <include name="testSoftassertion"/>
         </methods>
-      </class> <!-- selenium_webautomation_Learn.ORM_Testing.ORMAPP_Testing -->
+      </class> <!-- selenium_webautomation_Learn.ORM_Testing.AssertonDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
