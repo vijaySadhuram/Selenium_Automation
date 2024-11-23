@@ -49,7 +49,10 @@ public class Test_Login {
 //	 -------
 //	 headless testing  we seeing entire action on the webpage 
 //	 we only get get results
-	 
+	 String login(){
+    return "loginTest"
+		 
+	 }
 	 
 
 	         
